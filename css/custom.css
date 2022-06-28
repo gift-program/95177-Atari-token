@@ -1,0 +1,59 @@
+.hero-area .contents p {
+    font-size: 2.575rem;
+    color: #d13737;
+    line-height: 82px;
+    font-weight: 200;
+}
+.hero-area .contents h2 {
+    font-size: 2.4875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: initial;
+}
+h3 {
+	color: black;
+}
+.coin-rate {
+  	padding-top: 100px;
+ }
+ h3#wallet {
+ 	color: white;
+ }
+@media only screen and (max-width: 370px) {
+  .section {
+  	padding-top: 100px;
+  }
+  .hero-area .intro-img {
+  	margin-top: 0px !important;
+  	padding-top: 0px;
+  	padding-bottom: 30px;
+  }
+  .hero-area .contents p {
+  	font-size: 50px;
+  }
+  .hero-area .contents h2 {
+  	font-size: 30px;
+  }
+  .hero-area .contents {
+  	padding-top: 100px;
+  }
+  section.partner .head-title {
+  	padding-top: 140px !important;
+  }
+  .coin-rate {
+  	padding-top: 40px;
+  }
+  .coin-rate h2 {
+  	font-size: 40px;
+  }
+  .section {
+  	padding-top: 0px;
+  	padding-bottom: 20px;
+  }
+  section#blog #ecosystem {
+  	margin-bottom: 0px !important;
+  }
+  .atari-3d-logo-perspective {
+  	max-width: 300px;
+  }
+}
